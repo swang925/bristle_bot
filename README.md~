@@ -1,5 +1,5 @@
 # Bristle Bot
-
+## Description:
 Bristle Bot is a research project that investigates the dynamics of vibration-driven robots called 'Hexbots'. They are capable of moving in random directions and speeds. It is the mission of the project to understand these movements. We do so via computer vision technique and experimental setup to take videos of their motion and analyze them to get the following parameters.
 - size
 - postion
