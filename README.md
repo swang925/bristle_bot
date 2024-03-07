@@ -4,7 +4,8 @@ Bristle Bot is a research project that investigates the dynamics of vibration-dr
 - size
 - postion
 - orientation\
-\noindent Then, with scripts of names "data processing...", we draw graphs and calculate their translational speed and angular speed.
+
+Then, with scripts of names "data processing...", we draw graphs and calculate their translational speed and angular speed.
 ## Features:
 TODO:.py files that takes the input video and search for contours of bristle robot based on the background color and robot color selected
 ## Requirements:
